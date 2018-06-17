@@ -73,12 +73,12 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: "https://www.facebook.com/basanta.adhikari.520"
+#  github: 
+ # twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/basanta-adhikari-8a3423126/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -92,9 +92,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+#  twitter: true
   facebook: true
-  google: false
+ # google: false
   linkedin: true
 
 # How to display the link to the website in the footer
